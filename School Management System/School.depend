@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1691263274 source:d:\nti - embedded\final_project\school\main.c
+	"school.h"
+
+1691254415 d:\nti - embedded\final_project\school\school.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1691254415 source:d:\nti - embedded\final_project\school\school.c
+	"school.h"
+
